@@ -15,6 +15,13 @@
       "when": 1752011346451,
       "tag": "0001_lying_annihilus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752099961099,
+      "tag": "0002_cloudy_gambit",
+      "breakpoints": true
     }
   ]
 }
